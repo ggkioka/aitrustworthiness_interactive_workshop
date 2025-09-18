@@ -54,8 +54,8 @@ Step 4: Fill in the following use case cards:
 - An example can be found here : `card_examples/Filling-in-a-use-case-card-example-of-a-scene-narrator-application_W640.jpg`
 
 Step 6: Repeat for as many experiments as you'd like!
-
 Step 7: Note the advantages, disadvantages, limitations, considerations and anything relevant, because a Group Discussion is coming up! 🥳
+
 ---
 ## Optional Exercises
 
