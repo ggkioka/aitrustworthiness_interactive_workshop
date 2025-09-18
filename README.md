@@ -43,15 +43,15 @@ These are human- and machine-readable documentation templates to be filled in af
 * Step 1: Run each experiment, by following the instructions above.
 For each experiment run, do the following:
 * Step 2: Fill in (some or all of) the following data cards:
-- The one here `cards/DataCardsExtendedTemplate.docx` (you can use this as an example.--> `card_examples\Open Images Extended - MIAP - Data Card.pdf`)
-- The two found in the documentation templates above. 
+  - The one here `cards/DataCardsExtendedTemplate.docx` (you can use this as an example.--> `card_examples\Open Images Extended - MIAP - Data Card.pdf`)
+  - The two found in the documentation templates above. 
 * Step 3: Fill in (some or all of) the following model cards:
-- The two found in the documentation templates above. 
-- Create a model card in a fun and interactive way! https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool (you can find many examples here, for instance https://huggingface.co/google/vaultgemma-1b )
-- Bonus tip: Feel free to explore Google's model cards here --> https://modelcards.withgoogle.com/explore-a-model-card 
+  - The two found in the documentation templates above. 
+  - Create a model card in a fun and interactive way! https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool (you can find many examples here, for instance https://huggingface.co/google/vaultgemma-1b )
+  - Bonus tip: Feel free to explore Google's model cards here --> https://modelcards.withgoogle.com/explore-a-model-card 
 * Step 4: Fill in the following use case cards:
-- `cards/UseCaseCard_Template.docx` 
-- An example can be found here : `card_examples/Filling-in-a-use-case-card-example-of-a-scene-narrator-application_W640.jpg`
+  - `cards/UseCaseCard_Template.docx` 
+  - An example can be found here : `card_examples/Filling-in-a-use-case-card-example-of-a-scene-narrator-application_W640.jpg`
 
 * Step 6: Repeat for as many experiments as you'd like!
 * Step 7: Note the advantages, disadvantages, limitations, considerations and anything relevant, because a Group Discussion is coming up! 🥳
